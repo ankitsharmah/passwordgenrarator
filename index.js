@@ -8,7 +8,7 @@ const symbol=document.querySelector('#Symbols');
 const indicator=document.querySelector('#indicator');
 const Genpassword=document.querySelector('.generatE-button');
 const allchecks=document.querySelectorAll('input[type=checkbox')
-const copyButton=document.querySelector('.copy-button');
+const copyButton=document.querySelector('.fa-copy ');
 
 
  let symbols='~`!@#$%^&*()_+-[]"<>?/\|';
